@@ -20,7 +20,7 @@ Book Finder is a simple and modern React-based application that allows users to 
 -     Used React functional components and hooks (useState, useEffect) for state handling
       Fetched data from a free Books API (like Google Books API)
       Designed a clean and responsive UI using pure CSS
-      Deployed the app on CodeSandbox for free hosting
+      Deployed the app on CodeSandbox/Netlify for free hosting
       Took guidance from ChatGPT for brainstorming ideas, fixing bugs, and improving UI
 ---
 
@@ -42,8 +42,10 @@ Follow these steps to run the project on your system:
 5. Open your browser and visit:
 -     http://localhost:3000
 
-10. Live Demo :
-
-11. ChatGPT Link: 
+10. Live Demo : Netlify and stackblitz
+-     https://book-finder-final-project.netlify.app/
+-     https://stackblitz.com/~/github.com/moluguleria/Book-Finder-Final_project
+  
+12. ChatGPT Link: 
 
 
