@@ -46,6 +46,5 @@ Follow these steps to run the project on your system:
 -     https://book-finder-final-project.netlify.app/
 -     https://stackblitz.com/~/github.com/moluguleria/Book-Finder-Final_project
   
-12. ChatGPT Link: 
 
 
